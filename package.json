@@ -1,0 +1,29 @@
+{
+  "name": "babel-demo",
+  "version": "1.0.0",
+  "description": "Babel demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BojanKomazec/babel-demo.git"
+  },
+  "keywords": [
+    "Babel",
+    "JavaScript"
+  ],
+  "author": "Bojan Komazec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BojanKomazec/babel-demo/issues"
+  },
+  "homepage": "https://github.com/BojanKomazec/babel-demo#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.1.0",
+    "@babel/core": "^7.1.0",
+    "@babel/plugin-transform-arrow-functions": "^7.0.0",
+    "@babel/preset-env": "^7.1.0"
+  }
+}
